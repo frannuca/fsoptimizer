@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "testexec", "testexec\testexec.fsproj", "{64579F31-CB6A-4BC8-8EB5-03589A39D33A}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "convexoptimization", "convexoptimization\convexoptimization.fsproj", "{9F9DB10D-6DFA-4F15-BD33-988898734D2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64579F31-CB6A-4BC8-8EB5-03589A39D33A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64579F31-CB6A-4BC8-8EB5-03589A39D33A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64579F31-CB6A-4BC8-8EB5-03589A39D33A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64579F31-CB6A-4BC8-8EB5-03589A39D33A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F9DB10D-6DFA-4F15-BD33-988898734D2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F9DB10D-6DFA-4F15-BD33-988898734D2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F9DB10D-6DFA-4F15-BD33-988898734D2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F9DB10D-6DFA-4F15-BD33-988898734D2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
